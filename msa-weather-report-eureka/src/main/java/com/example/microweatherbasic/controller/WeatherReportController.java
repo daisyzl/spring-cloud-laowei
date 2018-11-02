@@ -54,4 +54,6 @@ public class WeatherReportController {
         model.addAttribute("report", weatherReportService.getDataByCityId(cityId));
         return new ModelAndView("weather/report", "reportModel", model);
     }
+
 }
+

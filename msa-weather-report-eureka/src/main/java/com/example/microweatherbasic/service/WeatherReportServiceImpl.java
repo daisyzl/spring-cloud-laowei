@@ -2,8 +2,6 @@ package com.example.microweatherbasic.service;
 
 import com.example.microweatherbasic.vo.Forecast;
 import com.example.microweatherbasic.vo.Weather;
-import com.example.microweatherbasic.vo.WeatherResponse;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
@@ -11,10 +9,9 @@ import java.util.List;
 
 @Service
 public class WeatherReportServiceImpl implements WeatherReportService {
-
     @Override
     public Weather getDataByCityId(String cityId) {
-// TODO 改为由天气数据API微服务来提供数据
+        // TODO 改为由天气数据API微服务来提供数据
 
         Weather data = new Weather();
         data.setAqi("81");
@@ -74,6 +71,5 @@ public class WeatherReportServiceImpl implements WeatherReportService {
 
         data.setForecast(forecastList);
         return data;
-
     }
 }
