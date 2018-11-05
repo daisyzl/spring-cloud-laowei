@@ -9,9 +9,11 @@
     <file url="file://$PROJECT_DIR$/micro-weather-quartz" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/micro-weather-redis" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/micro-weather-report" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msa-weather-city-eureka" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/msa-weather-city-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/msa-weather-collection-eureka" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/msa-weather-collection-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msa-weather-data-eureka" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/msa-weather-data-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/msa-weather-report-eureka" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/msa-weather-report-server" charset="UTF-8" />

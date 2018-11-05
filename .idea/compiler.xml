@@ -16,9 +16,11 @@
         <module name="micro-weather-quartz" />
         <module name="micro-weather-redis" />
         <module name="micro-weather-report" />
+        <module name="msa-weather-city-eureka" />
         <module name="msa-weather-city-server" />
         <module name="msa-weather-collection-eureka" />
         <module name="msa-weather-collection-server" />
+        <module name="msa-weather-data-eureka" />
         <module name="msa-weather-data-server" />
         <module name="msa-weather-report-eureka" />
         <module name="msa-weather-report-server" />
@@ -35,9 +37,11 @@
       <module name="micro-weather-quartz" target="1.8" />
       <module name="micro-weather-redis" target="1.8" />
       <module name="micro-weather-report" target="1.8" />
+      <module name="msa-weather-city-eureka" target="1.8" />
       <module name="msa-weather-city-server" target="1.8" />
       <module name="msa-weather-collection-eureka" target="1.8" />
       <module name="msa-weather-collection-server" target="1.8" />
+      <module name="msa-weather-data-eureka" target="1.8" />
       <module name="msa-weather-data-server" target="1.8" />
       <module name="msa-weather-report-eureka" target="1.8" />
       <module name="msa-weather-report-server" target="1.8" />
