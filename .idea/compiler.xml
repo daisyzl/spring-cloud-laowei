@@ -10,15 +10,18 @@
         <module name="micro-weather-basic" />
         <module name="micro-weather-basic (1)" />
         <module name="micro-weather-eureka-client" />
+        <module name="micro-weather-eureka-client-feign" />
         <module name="micro-weather-eureka-server" />
         <module name="micro-weather-eureka-server (1)" />
         <module name="micro-weather-quartz" />
         <module name="micro-weather-redis" />
         <module name="micro-weather-report" />
         <module name="msa-weather-city-server" />
+        <module name="msa-weather-collection-eureka" />
         <module name="msa-weather-collection-server" />
         <module name="msa-weather-data-server" />
         <module name="msa-weather-report-eureka" />
+        <module name="msa-weather-report-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -26,6 +29,7 @@
       <module name="micro-weather-basic" target="1.8" />
       <module name="micro-weather-basic (1)" target="1.8" />
       <module name="micro-weather-eureka-client" target="1.8" />
+      <module name="micro-weather-eureka-client-feign" target="1.8" />
       <module name="micro-weather-eureka-server" target="1.8" />
       <module name="micro-weather-eureka-server (1)" target="1.8" />
       <module name="micro-weather-quartz" target="1.8" />

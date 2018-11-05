@@ -4,14 +4,17 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/micro-weather-basic/micro-weather-basic.iml" filepath="$PROJECT_DIR$/micro-weather-basic/micro-weather-basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/micro-weather-eureka-client/micro-weather-eureka-client.iml" filepath="$PROJECT_DIR$/micro-weather-eureka-client/micro-weather-eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-weather-eureka-client-feign/micro-weather-eureka-client-feign.iml" filepath="$PROJECT_DIR$/micro-weather-eureka-client-feign/micro-weather-eureka-client-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/micro-weather-eureka-server/micro-weather-eureka-server.iml" filepath="$PROJECT_DIR$/micro-weather-eureka-server/micro-weather-eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/micro-weather-quartz/micro-weather-quartz.iml" filepath="$PROJECT_DIR$/micro-weather-quartz/micro-weather-quartz.iml" />
       <module fileurl="file://$PROJECT_DIR$/micro-weather-redis/micro-weather-redis.iml" filepath="$PROJECT_DIR$/micro-weather-redis/micro-weather-redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/micro-weather-report/micro-weather-report.iml" filepath="$PROJECT_DIR$/micro-weather-report/micro-weather-report.iml" />
       <module fileurl="file://$PROJECT_DIR$/msa-weather-city-server/msa-weather-city-server.iml" filepath="$PROJECT_DIR$/msa-weather-city-server/msa-weather-city-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msa-weather-collection-eureka/msa-weather-collection-eureka.iml" filepath="$PROJECT_DIR$/msa-weather-collection-eureka/msa-weather-collection-eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/msa-weather-collection-server/msa-weather-collection-server.iml" filepath="$PROJECT_DIR$/msa-weather-collection-server/msa-weather-collection-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/msa-weather-data-server/msa-weather-data-server.iml" filepath="$PROJECT_DIR$/msa-weather-data-server/msa-weather-data-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/msa-weather-report-eureka/msa-weather-report-eureka.iml" filepath="$PROJECT_DIR$/msa-weather-report-eureka/msa-weather-report-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msa-weather-report-server/msa-weather-report-server.iml" filepath="$PROJECT_DIR$/msa-weather-report-server/msa-weather-report-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-study.iml" filepath="$PROJECT_DIR$/spring-cloud-study.iml" />
     </modules>
   </component>

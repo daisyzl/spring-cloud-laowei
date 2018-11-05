@@ -6,9 +6,9 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 @EnableDiscoveryClient
 @SpringBootApplication
-public class MsaWeatherReportEurekaApplication {
+public class MsaWeatherCollectionEurekaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MsaWeatherReportEurekaApplication.class, args);
+		SpringApplication.run(MsaWeatherCollectionEurekaApplication.class, args);
 	}
 }
